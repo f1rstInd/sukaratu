@@ -1,11 +1,11 @@
 # Site Settings
-title: Mere Blog Theme
-tagline: Mere Blog Theme
+title: Teras Sukaratu
+tagline: SUKARATU
 email: your-email@domain.com
 description: >
-  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
+  Desa Sukaratu merupakan sebuah desa yang berada di wilayah Kecamatan Darmaraja. Wilayah Desa Sukaratu berdekatan dengan pusat Kecamatan Darmaraja, jika dilihat dari Alun-alun Darmaraja, posisinya berada di sebelah timur laut. Sementara jarak pusat desa dengan pusat Kecamatan Darmaraja sekitar 1 km
 baseurl: "/mere-blog-theme"
-url: "https://www.csrhymes.com"
+url: "https://sukaratu.org"
 permalink: pretty
 force_theme: light
 
